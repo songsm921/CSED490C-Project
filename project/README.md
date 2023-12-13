@@ -1,6 +1,6 @@
 # CSE490C Heterogeneous Parallel Computing
 
-# Lab assignment 6 - CUDA List Scan
+# Final Project
 
 
 This lab is based on the "GPU Teaching Kit Labs". The kit and associated lab are produced jointly by NVIDIA and University of Illinois (UIUC). 
