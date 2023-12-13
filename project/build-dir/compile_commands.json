@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkArg.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkArg.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkArg.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkCUDA.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkCUDA.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkCUDA.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkDataset.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkDataset.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkDataset.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkDirectory.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkDirectory.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkDirectory.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkExit.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkExit.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkExit.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkExport.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkExport.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkExport.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkFile.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkFile.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkFile.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkImage.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkImage.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkImage.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkImport.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkImport.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkImport.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkInit.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkInit.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkInit.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkLogger.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkLogger.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkLogger.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkMPI.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkMPI.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkMPI.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkPPM.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkPPM.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkPPM.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkPath.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkPath.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkPath.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkSolution.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkSolution.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkSolution.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkSparse.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkSparse.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkSparse.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkTimer.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkTimer.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkTimer.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkUtils.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/gputkUtils.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/gputkUtils.cpp"
+},
+{
+  "directory": "/home/songsm921/Lab6_cuda/build-dir",
+  "command": "/opt/ohpc/pub/compiler/gcc/7.3.0/bin/c++ -DGPUTK_USE_CUDA -I/home/songsm921/Lab6_cuda/libgputk -isystem /opt/ohpc/pub/apps/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG  -DgpuTKLogger_TimerLog -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/vendor/json11.cpp.o -c /home/songsm921/Lab6_cuda/libgputk/vendor/json11.cpp",
+  "file": "/home/songsm921/Lab6_cuda/libgputk/vendor/json11.cpp"
+}
+]
